@@ -1,2 +1,2 @@
 # imoveis-rj
-Predicting Model for Flat Prices in Rio de Janeiro - RJ - Brasil - 2017
+Imagem em HTML do Modelo Preditivo de Preços de Imóveis na Cidade do Riode Janeiro - dezembro/2017
