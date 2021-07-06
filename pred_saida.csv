@@ -1,0 +1,3 @@
+Bairro;Tipo;Valor Real Medio;Valor Predito Medio(PM2);Erro Medio Absoluto;Valor Real Instantaneo;Valor Predito Instantaneo(PM2);Data
+ipanema;2q;20672.78;20642.54;1.2;16050.4;16050.4;2017-12-01
+ipanema;3q;17559.13;19349.38;1.18;17182.82;17182.82;2017-12-01
